@@ -22,7 +22,7 @@ cron "13 1,22,23 * * *" script-path=jd_daily_lottery.js, tag=每日抽奖
 const $ = new Env('小鸽有礼-每日抽奖');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
-const activityCode = '1384416160044290048';
+const activityCode = '';
 $.helpCodeList = [];
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [], cookie = '';
