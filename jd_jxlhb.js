@@ -35,7 +35,7 @@ if ($.isNode()) {
     ...$.toObj($.getdata("CookiesJD") || "[]").map((item) => item.cookie)].filter((item) => !!item);
 }
 $.packetIdArr = [];
-$.activeId = '489177';
+$.activeId = '';
 const BASE_URL = 'https://wq.jd.com/cubeactive/steprewardv3'
 
 
