@@ -40,8 +40,8 @@ if ($.isNode()) {
 }
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
 const inviteCodes = [
-  `ATGEC3-fsrn13aiaEqiM@AUWE5maSSnzFeDmH4iH0elA@ATGEC3-fsrn13aiaEqiM@AUWE5m6WUmDdZC2mr1XhJlQ@AUWE5m_jEzjJZDTKr3nwfkg@A06fNSRc4GIqY38pMBeLKQE2InZA@AUWE5mf7ExDZdDmH7j3wfkA@AUWE5m6jBy2cNAWX7j31Pxw@AUWE5mK2UnDddDTX61S1Mkw@AUWE5mavGyGZdWzP5iCoZwQ`,
-  `ATGEC3-fsrn13aiaEqiM@AUWE5maSSnzFeDmH4iH0elA@ATGEC3-fsrn13aiaEqiM@AUWE5m6WUmDdZC2mr1XhJlQ@AUWE5m_jEzjJZDTKr3nwfkg@A06fNSRc4GIqY38pMBeLKQE2InZA@AUWE5m6_BmTUPAGH42SpOkg@AUWE53NTIs3V8YBqthQMI@AUWE5m6yVxTJcWjWr3nRIlw`
+  `SaHHXlqamI-ZV9JZg@SanXulbWULOF19Y9N@S_fx0RhYe8FLRJxr1lfMKcU8@SaFPflaiSINRo9YRZkvYC@SaFPflaiSI_JX9ZNwQWKH@Sv_h6SR0e8VfXIBmb1A`,
+  `SaHHXlqamI-ZV9JZg@SanXulbWULOF19Y9N@S_fx0RhYe8FLRJxr1lfMKcU8@SaFPflaiSINRo9YRZkvYC@SaFPflaiSI_JX9ZNwQWKH@Sv_h6SR0e8VfXIBmb1A`
 ]
 let nowTimes = new Date(new Date().getTime() + new Date().getTimezoneOffset() * 60 * 1000 + 8 * 60 * 60 * 1000);
 !(async () => {
