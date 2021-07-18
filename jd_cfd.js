@@ -1,4 +1,4 @@
-/*
+/*lpk
 京喜财富岛
 根据github@MoPoQAQ 财富岛脚本修改而来。无需京喜token,只需京东cookie即可.
 cron 5 8,13,19 * * * jd_cfd.js
