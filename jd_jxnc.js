@@ -1,4 +1,4 @@
-/*
+/*lpk
 特别声明：
 本脚本搬运自 https://github.com/whyour/hundun/blob/master/quanx/jx_nc.js
 感谢 @whyour 大佬
