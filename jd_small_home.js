@@ -1,4 +1,4 @@
-/*
+/*lpk
 东东小窝 jd_small_home.js
 Last Modified time: 2021-1-22 14:27:20
 现有功能：
