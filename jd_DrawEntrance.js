@@ -1,4 +1,4 @@
-lpk/*
+/*lpk
 天天优惠大乐透
 活动入口-领券-券后9.9
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
